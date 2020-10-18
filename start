@@ -1,0 +1,3 @@
+# image folder, category file, xmldir/output
+python labelImg.py ../../projects/Palm/database/11K_Hand/Fhand ../../projects/Palm/train/input/11K_Hand/lines/labels/lines.txt ../../projects/Palm/train/input/11K_Hand/lines/xmls  &
+
