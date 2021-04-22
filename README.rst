@@ -1,3 +1,5 @@
+This is a brach off LableImg project. I have added masking annotation into it. Use it for reference purposes only as its written in Python2 and now willl not work. 
+
 LabelImg
 ========
 
